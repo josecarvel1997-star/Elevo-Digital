@@ -1,0 +1,86 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1050" role="img" aria-labelledby="title desc">
+  <title id="title">Lia, personagem da Elevo Digital</title>
+  <desc id="desc">Ilustração vetorial de uma consultora digital confiante, sorridente, com roupa azul marinho e detalhes violeta e turquesa, segurando um tablet. Fundo transparente.</desc>
+  <defs>
+    <linearGradient id="jacket" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#536ffc"/><stop offset=".58" stop-color="#6859dc"/><stop offset="1" stop-color="#353a91"/></linearGradient>
+    <linearGradient id="shirt" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#ecf4ff"/><stop offset="1" stop-color="#b9d8ed"/></linearGradient>
+    <linearGradient id="hair" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#293754"/><stop offset=".52" stop-color="#182236"/><stop offset="1" stop-color="#101828"/></linearGradient>
+    <linearGradient id="tablet" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#263856"/><stop offset="1" stop-color="#131e31"/></linearGradient>
+    <linearGradient id="orb" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#7e91ff"/><stop offset="1" stop-color="#a37dff"/></linearGradient>
+    <filter id="shadow" x="-.3" y="-.3" width="1.6" height="1.7"><feGaussianBlur stdDeviation="18"/></filter>
+  </defs>
+  <!-- subtle, removable brand halo -->
+  <ellipse cx="456" cy="938" rx="284" ry="48" fill="#19264a" opacity=".2" filter="url(#shadow)"/>
+  <circle cx="457" cy="430" r="323" fill="#7985ff" opacity=".055"/>
+  <circle cx="457" cy="430" r="278" fill="none" stroke="#93a0ff" stroke-opacity=".13" stroke-width="2" stroke-dasharray="3 13"/>
+  <!-- floating digital accents -->
+  <g fill="none" stroke="#8fe7dc" stroke-width="4" opacity=".9"><path d="M167 353h34v34h-34z" rx="8"/><path d="M184 362v16m-8-8h16"/><circle cx="731" cy="324" r="21"/><path d="m722 324 6 6 12-13"/></g>
+  <path d="m710 608 9 18 20 3-14 14 3 20-18-10-18 10 4-20-15-14 20-3z" fill="#9d8aff" opacity=".8"/>
+  <path d="m228 570 6 12 13 2-9 9 2 13-12-6-12 6 2-13-9-9 13-2z" fill="#6ddfd2" opacity=".9"/>
+
+  <!-- back hair -->
+  <path d="M280 372c-34-107-8-215 79-271 66-43 157-37 214 9 74 60 88 162 50 267l-26 201c-8 80-72 121-180 116-106-5-154-48-158-127z" fill="url(#hair)"/>
+  <!-- neck -->
+  <path d="M390 558v102c0 42 32 69 73 69 42 0 75-28 75-69V558z" fill="#b96f59"/>
+  <path d="M390 584c20 30 48 47 77 47 27 0 51-12 71-36v-58H390z" fill="#995647" opacity=".5"/>
+  <!-- ears -->
+  <ellipse cx="309" cy="398" rx="30" ry="43" fill="#c9846b"/>
+  <ellipse cx="620" cy="398" rx="30" ry="43" fill="#c9846b"/>
+  <path d="M296 389q13-16 25 2m286-2q13-16 25 2" fill="none" stroke="#925447" stroke-width="5" stroke-linecap="round"/>
+  <!-- face -->
+  <path d="M306 337c0-112 62-178 154-178s154 66 154 178v88c0 111-69 188-154 188s-154-77-154-188z" fill="#d99478"/>
+  <path d="M320 325c13-83 57-125 129-125 63 0 110 36 139 99-38-14-68-38-88-73-32 45-90 75-180 84z" fill="#c9846b" opacity=".38"/>
+  <!-- hair framing and fringe -->
+  <path d="M293 393c-31-97-14-206 56-269 46-43 103-57 166-44 83 17 131 81 136 171 3 54-7 103-25 143l-23-10c9-44 8-85-2-119-42 9-85-1-123-33-37 35-96 59-174 57l-2 104z" fill="url(#hair)"/>
+  <path d="M305 300c51-3 99-22 139-54 39 33 83 49 133 46-41-19-69-46-88-82-38 48-97 78-184 90z" fill="#314361" opacity=".7"/>
+  <path d="M307 373c-17 95 1 214 49 277-44-12-74-48-83-100l-13-128c-5-45 9-76 47-95zM602 354c25 74 20 197-19 277 48-15 74-53 80-113l9-108c4-38-17-59-70-56z" fill="#18243a"/>
+  <!-- eyebrows -->
+  <path d="M352 377q27-18 55 0m88 0q28-18 55 0" fill="none" stroke="#493b3a" stroke-width="7" stroke-linecap="round"/>
+  <!-- eyes -->
+  <path d="M359 403q21-19 43 0-21 22-43 0zm91 0q21-19 43 0-21 22-43 0z" fill="#fff8f0"/>
+  <ellipse cx="383" cy="403" rx="8" ry="10" fill="#344b65"/><ellipse cx="475" cy="403" rx="8" ry="10" fill="#344b65"/>
+  <circle cx="385" cy="400" r="3" fill="#fff"/><circle cx="477" cy="400" r="3" fill="#fff"/>
+  <path d="m427 408-10 46q11 9 24 0" fill="none" stroke="#a95d50" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M391 482q37 32 74 0" fill="none" stroke="#8c4145" stroke-width="6" stroke-linecap="round"/>
+  <path d="M400 482q28 19 56 0" fill="none" stroke="#fff1e8" stroke-width="5" stroke-linecap="round"/>
+  <ellipse cx="354" cy="449" rx="23" ry="11" fill="#ed927f" opacity=".38"/><ellipse cx="507" cy="449" rx="23" ry="11" fill="#ed927f" opacity=".38"/>
+  <!-- small ear jewelry -->
+  <circle cx="306" cy="432" r="8" fill="#e7c779"/><circle cx="623" cy="432" r="8" fill="#e7c779"/>
+
+  <!-- body / tailored jacket -->
+  <path d="M381 645c-59 10-99 44-125 103-31 69-45 152-55 251h518c-10-99-24-182-55-251-26-59-66-93-125-103l-76 72z" fill="url(#jacket)"/>
+  <path d="m382 643 74 91 49-1 47-90-42-23c-12 28-30 43-54 43-23 0-42-15-54-43z" fill="url(#shirt)"/>
+  <!-- lapels -->
+  <path d="m381 645 75 89-56 54-50-117zm171 0-95 89 48 49 62-112z" fill="#7589ff"/>
+  <path d="m381 645 48 97-30 46-49-117zm171 0-69 98 22 40 62-112z" fill="#8875ef" opacity=".7"/>
+  <!-- shirt detail -->
+  <path d="m456 734 25 0 16 34-28 49-30-49z" fill="#f3f6fa"/>
+  <path d="m469 741 8 0 6 28-10 18-10-18z" fill="#64d9ce"/>
+  <!-- arms -->
+  <path d="M258 748c-33 42-53 96-67 160-10 49 10 79 46 70 29-7 46-50 59-98l36-107z" fill="#bd755f"/>
+  <path d="M635 748c35 40 55 96 69 160 10 49-10 79-46 70-29-7-46-50-59-98l-36-107z" fill="#cb826a"/>
+  <!-- sleeves -->
+  <path d="M252 738c-40 58-61 130-71 215 24 23 61 34 97 29 10-64 27-131 58-201z" fill="url(#jacket)"/>
+  <path d="M641 738c39 58 60 130 70 215-24 23-61 34-97 29-10-64-27-131-58-201z" fill="url(#jacket)"/>
+  <path d="M224 881q28 18 64 20m393-20q-28 18-64 20" fill="none" stroke="#8998ff" stroke-width="4" opacity=".6"/>
+  <!-- tablet held across torso -->
+  <g transform="rotate(-5 461 827)">
+    <rect x="329" y="755" width="272" height="157" rx="18" fill="#0d1524" stroke="#8999ff" stroke-width="5"/>
+    <rect x="340" y="766" width="250" height="135" rx="10" fill="url(#tablet)"/>
+    <rect x="356" y="784" width="61" height="9" rx="4.5" fill="#8d9aff" opacity=".85"/>
+    <rect x="356" y="803" width="120" height="6" rx="3" fill="#79869d" opacity=".6"/>
+    <rect x="356" y="819" width="94" height="6" rx="3" fill="#79869d" opacity=".48"/>
+    <rect x="356" y="842" width="215" height="43" rx="7" fill="#1c2a40"/>
+    <path d="M367 873v-11m19 11v-22m19 22v-15m19 15v-27m19 27v-18m19 18v-31m19 31v-21m19 21v-25m19 25v-35" stroke="#74dace" stroke-width="6" stroke-linecap="round" opacity=".8"/>
+    <circle cx="582" cy="833" r="4" fill="#8290ff"/>
+  </g>
+  <!-- hands resting on the tablet edge -->
+  <path d="M344 781c-23-12-39-3-44 17l-8 38c-5 24 12 35 32 25l37-21zm234-2c22-12 39-3 43 17l8 38c5 24-12 35-32 25l-37-21z" fill="#d99478"/>
+  <path d="m300 829 26 10m-21 4 23 9m276-23-25 10m20 4-23 9" stroke="#b96f59" stroke-width="4" stroke-linecap="round"/>
+  <!-- collar accents / brand pin -->
+  <path d="m355 713 20 41m219-41-23 42" stroke="#a9b3ff" stroke-width="3" opacity=".8"/>
+  <circle cx="572" cy="729" r="13" fill="#17213b" stroke="#94e5dc" stroke-width="2"/>
+  <path d="m566 731 5-8 3 6 5-2-6 10-3-5z" fill="#8fe7dc"/>
+  <!-- badge -->
+  <g transform="translate(674 731)"><rect width="70" height="70" rx="20" fill="#161e31" stroke="#7689ff" stroke-width="2"/><path d="M18 48V22h10l15 16V22h10v26H43L28 32v16z" fill="url(#orb)"/><path d="m50 21 9-7-1 12" fill="none" stroke="#78ddd2" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/></g>
+</svg>
